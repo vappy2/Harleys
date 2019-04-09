@@ -1,7 +1,7 @@
 # Harleys #
 
 ### Description du projet ###
-* Application permettant de crée une base de donnée (ici sous MySQL) via des classes C#.
+* Application permettant de créer une base de donnée (ici sous MySQL) via des classes C#.
 * On utilise ici la méthode Code First
 
 ##### Cas d'utilisation ####
