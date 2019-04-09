@@ -5,10 +5,13 @@
 * On utilise ici la méthode Code First
 
 ##### Cas d'utilisation ####
-*inséré le CU*
+![CU](https://github.com/vappy2/Harleys/blob/master/img/CU%20garagecontexte.png)
 
-#### Diagrame de classe ####
-*insérer le DDC* 
+##### Diagrame de classe #####
+![DDC](https://github.com/vappy2/Harleys/blob/master/img/DDC%20garageContext.png) 
+
+##### Schéma de la base données #####
+![BDD](https://github.com/vappy2/Harleys/blob/master/img/bdd%20garagecontexte.png)
 
 #### Langage & outils ####
 * Visual Studio 2017 (C#)
